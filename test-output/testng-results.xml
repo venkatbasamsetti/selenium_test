@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="jda_test" duration-ms="8398" started-at="2018-12-05T10:27:15Z" finished-at="2018-12-05T10:27:23Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8398" started-at="2018-12-05T10:27:15Z" finished-at="2018-12-05T10:27:23Z">
+      <class name="com.jda.adv.PatymSearch">
+        <test-method status="PASS" signature="patymSearch()[pri:0, instance:com.jda.adv.PatymSearch@48eff760]" name="patymSearch" duration-ms="8383" started-at="2018-12-05T15:57:15Z" finished-at="2018-12-05T15:57:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patymSearch -->
+      </class> <!-- com.jda.adv.PatymSearch -->
+    </test> <!-- Test -->
+  </suite> <!-- jda_test -->
+</testng-results>
