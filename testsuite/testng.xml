@@ -1,9 +1,0 @@
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name="jda_test" allow-return-values="true">
-	<test name="Test" preserve-order="true">
-    <classes>
-	<class name="com.jda.adv.PatymSearch" />
-	
-	</classes>	
-	</test>
-	</suite>
